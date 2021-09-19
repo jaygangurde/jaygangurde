@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaygangurde&label=Profile%20views&color=0e75b6&style=flat" alt="jaygangurde" /> </p>
 <img align="right" alt="coding"  width="400" src="https://miro.medium.com/max/1250/0*goaFvkjpQM-0p0h6." >
+<img src="https://www.clipartmax.com/png/small/46-466460_iron-man-png-transparent-images-iron-man-transparent-background.png" alt="Iron Man Png Transparent Images - Iron Man Transparent Background >
 
 - 👓📚 I’m currently studying in sppu **Msc Computer Science**
 

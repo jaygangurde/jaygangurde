@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate Web developer and video editor from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaygangurde&label=Profile%20views&color=0e75b6&style=flat" alt="jaygangurde" /> </p>
+<img align="right" alt="coding"  width="400" src="https://miro.medium.com/max/1250/0*goaFvkjpQM-0p0h6." >
 
 - 👓📚 I’m currently studying in sppu **Msc Computer Science**
 

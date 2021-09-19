@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm JAY</h1>
+<h1 align="center"> **नमस्ते** 🙏, I'm JAY GANGURDE</h1>
 <h3 align="center">A passionate Web developer and video editor from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaygangurde&label=Profile%20views&color=0e75b6&style=flat" alt="jaygangurde" /> </p>

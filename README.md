@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center"> नमस्ते 🙏, I'm JAY GANGURDE</h1>
 <h3 align="center">A passionate Web developer and video editor from India</h3>
 
-<p align="left"> <img src=" https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bd94613f-3353-41b2-be50-836e8c5e8f05/ddxjscv-041b5128-675c-400e-8993-3f4b225f9c2e.jpg/v1/fill/w_1192,h_670,q_70,strp/wallpaperflare_com_wallpaper__10__by_graphicgang_ddxjscv-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvYmQ5NDYxM2YtMzM1My00MWIyLWJlNTAtODM2ZThjNWU4ZjA1XC9kZHhqc2N2LTA0MWI1MTI4LTY3NWMtNDAwZS04OTkzLTNmNGIyMjVmOWMyZS5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.H4C3leoALsArMb2ZZ3WGd-fIcl8ghBd3ypWaIND7Vyk " alt="jaygangurde" /> </p>
+<p align="left"> <img src= ""alt="jaygangurde" /> </p>
 <img align="right" alt="coding"  width="400" src="https://miro.medium.com/max/1250/0*goaFvkjpQM-0p0h6." > 
 
 - 👓📚 I’m currently studying in sppu **Msc Computer Science**

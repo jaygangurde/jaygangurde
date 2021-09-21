@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate Web developer and video editor from India</h3>
 
 <p align="left"> <img src= "https://github.com/jaygangurde/github/blob/bc3f0af984a62bb9d349795d67bf1af91be1dd12/download__2_-removebg.png"alt="jaygangurde" /> </p>
-<img align="right" alt="coding"  width="400" src="https://miro.medium.com/max/1250/0*goaFvkjpQM-0p0h6." > 
+<img align="right" alt="coding"  width="400" src="https://github.com/jaygangurde/github/blob/bc3f0af984a62bb9d349795d67bf1af91be1dd12/download__2_-removebg.png" > 
 
 - 👓📚 I’m currently studying in sppu **Msc Computer Science**
 

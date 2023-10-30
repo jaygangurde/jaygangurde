@@ -23,8 +23,6 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **python, react js , photoshop**
 
-- 🔭 I’m currently working at [WEBANAV](https://www.webanav.com/)
-
 - 📫 How to reach me **jaygangurde9102@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
